@@ -1,6 +1,8 @@
 # My Todo App
 
 A simple web-based Todo App that allows users to manage their tasks.
+## How to access my app
+-Open your web browser and navigate to https://hub.docker.com/layers/pnayiturik/todo-app/latest/images/sha256:9c1ace240d720c70f00e3a58fb6207d30fdcb66d14e5f962719664e122b295f9?uuid=62EA84B4-45B5-4753-879E-A8736F562586
 ## Usage
 1. Add a new task:
 - Enter the task name in the input field.
@@ -18,6 +20,7 @@ A simple web-based Todo App that allows users to manage their tasks.
 - Mark tasks as completed.
 - Delete tasks.
 - Responsive design for various screen sizes.
+
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, follow these steps:
