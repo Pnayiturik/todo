@@ -3,9 +3,9 @@
 A simple web-based Todo App that allows users to manage their tasks.
 ## How to access my app
 -Make sure Docker is installed on your machine. 
-Pull the Docker image: docker pull pnayiturik/todo-app 
-Run a container using the image: docker run -p 8080:80  pnayiturik/todo-app 
-Open your web browser and go to http://localhost:8080 to view the application running inside the Docker container.
+-Pull the Docker image: docker pull pnayiturik/todo-app 
+-Run a container using the image: docker run -p 8080:80  pnayiturik/todo-app 
+-Open your web browser and go to http://localhost:8080 to view the application running inside the Docker container.
 ## Usage
 1. Add a new task:
 - Enter the task name in the input field.
